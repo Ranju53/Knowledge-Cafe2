@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "How to get your first job as a self-taught programmer",
+    "coverImg": "https://i.ibb.co/7zjf6k2/1.jpg",
+    "author": {
+      "name": "Mr. Raju",
+      "img": "https://i.ibb.co/CP1X20z/boy1.png"
+    },
+    "postDate": "Mar 14 (4 Days ago)",
+    "readingTime":5,
+    "hashtags": ["#beginners", "#programming"]
+  },
+  {
+    "id": 2,
+    "title": "How to get your first job as a self-taught programmer",
+    "coverImg": "https://i.ibb.co/QYXGpHf/2.png",
+    "author": {
+      "name": "Mrs. Setara",
+      "img": "https://i.ibb.co/5sM2nvC/boy2.jpg"
+    },
+    "postDate": "Mar 14 (4 Days ago)",
+    "readingTime": 10,
+    "hashtags": ["#beginners", "#programming"]
+  },
+  {
+    "id": 3,
+    "title": "How to get your first job as a self-taught programmer",
+    "coverImg": "https://i.ibb.co/QM763WL/3.png",
+    "author": {
+      "name": "Mina Mostofa",
+      "img": "https://i.ibb.co/51DK99G/girl1.jpg"
+    },
+    "postDate": "Mar 14 (4 Days ago)",
+    "readingTime": 12,
+    "hashtags":  ["#beginners", "#programming"]
+  },
+  {
+    "id": 4,
+    "title": "Building Responsive Web Pages with HTML and CSS",
+    "coverImg": "https://i.ibb.co/DpNXj6D/4.jpg",
+    "author": {
+      "name": "Riman Roni",
+      "img": "https://i.ibb.co/CP1X20z/boy1.png"
+    },
+    "postDate": "Mar 14 (4 Days ago)",
+    "readingTime": 15,
+    "hashtags": ["#beginners", "#programming"]
+  }
+   
+]
